@@ -18,7 +18,7 @@ MC_DIR="$HOME/minecraft-server"
 JAR_FILE="$MC_DIR/server.jar"
 BACKUP_DIR="$MC_DIR/backups"
 FM_PORT=8080
-RAM="30G"
+RAM="8G"
 
 # ─── Logo ───
 show_logo() {
